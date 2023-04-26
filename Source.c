@@ -10,3 +10,12 @@ int value;
 char action[15];
 struct card_s *pt;
 } card;
+
+card deck[108];
+
+int main(void) {
+  
+  
+}
+
+//functions
