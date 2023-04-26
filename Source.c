@@ -15,7 +15,7 @@ card deck[108];
 
 int main(void) {
   
-  lkjjjjijiji
+  
     
 }
 
